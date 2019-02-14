@@ -20,7 +20,7 @@
   <h1 class = "headclass" style="color: #D3D3D3">Welcome to NeuralTech AI</h1>
         <div class="banner">
 
-            <img class = "image1" src="../images/AIBanner.jpg" style="width: 100%"><img class = "image2"src="../images/logo_transparent.png" alt="logo" style="width: 15%" />
+            <img class = "image1" src="../images/AIBanner.jpg" style="width: 100%"><img class = "image2"src="../images/logo_transparent_85.png" alt="logo" style="width: 15%" />
         </div>
     </div>
     <h2>Machine learning</h2>
