@@ -1,6 +1,6 @@
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="neuraltech.css">
+	<link rel="stylesheet" type="text/css" href="../css/neuraltech.css">
 </head>
 <h1 style="color: #D3D3D3">Welcome to NeuralTech AI </h1>
 <h2 style="color: #D3D3D3">Take a look through our xample page</h2>

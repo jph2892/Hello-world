@@ -2,7 +2,7 @@
 <head>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" integrity="sha384-PDle/QlgIONtM1aqA2Qemk5gPOE7wFq8+Em+G/hmo5Iq0CCmYZLv3fVRDJ4MMwEA" crossorigin="anonymous">
 
-	<link rel="stylesheet" type="text/css" href="/css/neuraltech.css">
+	<link rel="stylesheet" type="text/css" href="../css/neuraltech.css">
 </head>
 <body>
     <h1>My name is Jeff</h1>
@@ -20,7 +20,7 @@
   <h1 class = "headclass" style="color: #D3D3D3">Welcome to NeuralTech AI</h1>
         <div class="banner">
 
-            <img class = "image1" src="../images/AIBanner.jpg" style="width: 100%"><img class = "image2"src="../../images/logo_transparent.png" alt="logo" style="width: 17%" />
+            <img class = "image1" src="../images/AIBanner.jpg" style="width: 100%"><img class = "image2"src="../images/logo_transparent.png" alt="logo" style="width: 17%" />
         </div>
     </div>
     <h2>Machine learning</h2>
