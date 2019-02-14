@@ -2,7 +2,7 @@
 <head>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" integrity="sha384-PDle/QlgIONtM1aqA2Qemk5gPOE7wFq8+Em+G/hmo5Iq0CCmYZLv3fVRDJ4MMwEA" crossorigin="anonymous">
 
-	<link rel="stylesheet" type="text/css" href="css/neuraltech.css">
+	<link rel="stylesheet" type="text/css" href="/css/neuraltech.css">
 </head>
 <body>
     <h1>My name is Jeff</h1>
