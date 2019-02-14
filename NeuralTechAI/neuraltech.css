@@ -1,0 +1,48 @@
+.navigation{
+	overflow: hidden;
+    background-color: lightslategray;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+}
+.navigation a{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+.banner{
+ position: relative;
+ margin-top: 100px;
+ margin-left: 48px;
+ margin-right: 48px;
+
+}
+.container1{
+  margin-top: 0;
+  background: rgb(245,245,245);
+}
+.header img{
+  float: left;
+  width: 100px;
+  display: inline-block;
+  padding-top: 20px
+}
+.image1{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.image2{
+  position: absolute;
+  left: 0px;
+  top: -50px;
+}
+.headclass{
+  padding-top: 50px;
+}
