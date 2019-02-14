@@ -46,7 +46,7 @@
 .headclass{
   padding-top: 50px;
 }
-@media screen and(min-width: 1500px){
+@media screen and (min-width: 1500px){
   .image2{
     top:-25px!important;
   }
