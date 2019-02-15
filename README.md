@@ -1,3 +1,3 @@
-# Hello-world
-Hello everyone
-my name is john.
+# NeuralTech AI
+NeuralTech AI
+Machine learning for the future.
