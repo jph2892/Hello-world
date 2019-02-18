@@ -14,7 +14,7 @@
 	</div>
 
 
-   
+   <p>This is a test</p>
 	
   <div class="column">
   <h1 class = "headclass" style="color: #D3D3D3">Welcome to NeuralTech AI</h1>
@@ -27,3 +27,4 @@
     <p>machine learning is what you need to know </p>
   </body>
 </html>
+
