@@ -1,0 +1,12 @@
+Need create api call to SureDone
+
+This api call will require
+	Username: wheels-america
+	Token: 655F96BF058AE8B4FB733CF96006F767182C3B9F36BC545D9333B16FC5F7E96999033F66D04985DA1AWFOQZD0KIWRTTVHKLFMKY1V4A41J1
+	Password: Wheels$America320!
+	
+do bulk upload
+Api url 
+	Url: https://api.suredone.com/v1/search/items/brand:=brand price:<price
+
+action = edit, sku = w020400, maxstock = 3
